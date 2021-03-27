@@ -178,12 +178,13 @@ body {
 }
 
 .user-image {
-  padding:20px;
+  padding:40px;
   margin: 0px;
 }
 
 .user-image img {
-  
+  width: 640px;
+ height: 640px;
   object-fit: cover;
 }
 
