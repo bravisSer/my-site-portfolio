@@ -180,6 +180,7 @@ body {
 .user-image {
   padding:40px;
   margin: 0px;
+  text-align: center;
 }
 
 .user-image img {
