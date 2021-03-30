@@ -10,6 +10,29 @@ body {
   background-image: url("img/pattern-lines-hero.svg");
   background-position: center;
 }
+p{
+  margin-left: 400px;
+}
+aside{
+  text-align:center;
+  margin-top: 50px
+  }
+  footer{
+    text-align: center;
+  }
+  .fudndamentalPict{
+    padding-right:150px;
+  }
+  .reklama{
+    background-color: #d784f5;
+    color:black;
+  }
+
+.template{
+  margin-left: 500px;
+  font-size: 1.5em;
+  color: #f9dd79;
+}
 
 .container {
   max-width: 1408px;
@@ -20,6 +43,12 @@ body {
 .page-header {
   margin: 0;
   padding: 40px 0;
+}
+.page2 a {
+  color:#d784f5;
+  font-size: 20px;
+  padding-top: 20px;
+  margin-left: 15px;
 }
 
 .page-header a,
@@ -39,7 +68,7 @@ body {
 .page-header a:hover,
 .page-footer a:focus,
 .page-footer a:hover {
-  color: #f9dd79;
+  color: #f9dd76;
 }
 
 .page-header a::after,
